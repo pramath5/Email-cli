@@ -20,3 +20,10 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+#Compiled Output
+*.exe
+*.o
+*.obj
+# Backup / temp files
+*~
+*.swp
